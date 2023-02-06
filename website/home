@@ -1,0 +1,22 @@
+<head>
+    <title>WEBSITE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        
+    </header>
+    <main>
+        <section id="hOME">
+         <h1>this is safa</h1>   
+        </section>
+        <section id="about">
+            
+        </section>
+        <section id="contact">
+            
+        </section>
+    </main>
+
+</body>
+</html>
